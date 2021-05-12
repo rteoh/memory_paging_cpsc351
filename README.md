@@ -1,8 +1,6 @@
-# CPSC 351 Assignment #2
+# Memory Paging
 
 Coded in C++.
-
-Extra credit was not implemented.
 
 ## Group
 
